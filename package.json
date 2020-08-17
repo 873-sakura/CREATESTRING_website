@@ -1,5 +1,5 @@
 {
-  "name": "react-tutorial",
+  "name": "createstring_website",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/873-sakura/react-tutorial.git"
+    "url": "git+https://github.com/873-sakura/CREATESTRING_website.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/873-sakura/react-tutorial/issues"
+    "url": "https://github.com/873-sakura/CREATESTRING_website/issues"
   },
-  "homepage": "https://873-sakura.github.io/react-tutorial/",
+  "homepage": "https://873-sakura.github.io/CREATESTRING_website/",
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
